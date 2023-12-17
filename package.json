@@ -1,0 +1,9 @@
+{
+    "workspaces": [
+        "server/*",
+        "next-app-template/*"
+    ],
+    "dependencies": {
+        "turbo": "^1.11.2"
+    }
+}
